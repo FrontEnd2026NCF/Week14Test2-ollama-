@@ -1,0 +1,8 @@
+/* style the whole page */
+body {
+  margin: 0;
+  padding: 16px;
+  background: #FAF7F2;
+  color: #2B2B2B;
+  font-family: Georgia, serif;
+}
